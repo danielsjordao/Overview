@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel Jordão @dsjordao
+- 👋 Hi, I’m Daniel Jordão @danielsjordao
 - 👀 I'm interested in improving my knowledge as field front-end devlop.
 - 📜 I’m currently learning HTML, CSS3, JavaScript, React and Next.js.
 - 💹 I’m looking for an opportunity as a field front-end devlop.
