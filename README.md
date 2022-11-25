@@ -1,8 +1,12 @@
 - 👋 Hi, I’m Daniel Jordão @danielsjordao
+
 - 👀 I'm a business professional who made a career transition to the IT area specifically, as a front-end developer, and I'm constantly studying new languages,                 libraries, and frameworks. Nowadays I'm focused on improving my knowledge and expertise in React Library. 
       In the future, I'm planning to absorb great knowledge in Front-end and Back-end to become a Full-Stack developer.
+      
 - 📜 I’m currently learning HTML, CSS3, JavaScript, React and Next.js.
+
 - 💹 I’m looking for an opportunity as a field front-end devlop.
+
 - 📫 How to reach me by email: jordaodaniel@hotmail.com
 
 <div>
