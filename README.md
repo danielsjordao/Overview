@@ -3,7 +3,7 @@
 - 👀 I'm a business professional who made a career transition to the IT area specifically, as a front-end developer, and I'm constantly studying new languages,                 libraries, and frameworks. Nowadays I'm focused on improving my knowledge and expertise in React Library. 
       In the future, I'm planning to absorb great knowledge in Front-end and Back-end to become a Full-Stack developer.
       
-- 📜 I’m currently learning React.js, Next.js, HTML5, CSS3, and JavaScript, besides of great knowledge in Improvement Processes using Lean 6S, BPM, and Agile Methodologies.
+- 📜 I’m currently learning React.js, Next.js, Angular, HTML5, CSS3, and JavaScript, besides of great knowledge in Improvement Processes using Lean 6S, BPM, and Agile Methodologies.
 
 - 💹 I’m looking for an opportunity as a field front-end devlop.
 
