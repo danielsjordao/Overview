@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Jordão @danielsjordao
 
-- 👀 I'm a business professional who made a career transition to the IT area specifically, as a front-end developer, and I'm constantly studying new languages,                 libraries, and frameworks. Nowadays I'm focused on improving my knowledge and expertise in React Library. 
+- 👀 I'm a business professional who made a career transition to the IT area specifically, as a front-end developer, and I'm constantly studying new languages,                 libraries, and frameworks. Nowadays I'm focused on improving my knowledge and expertise in React Library and Angular Framework. 
       In the future, I'm planning to absorb great knowledge in Front-end and Back-end to become a Full-Stack developer.
       
 - 📜 I’m currently learning React.js, Next.js, Angular, HTML5, CSS3, and JavaScript, besides of great knowledge in Improvement Processes using Lean 6S, BPM, and Agile Methodologies.
@@ -20,10 +20,12 @@
 <div>
 
 <div style="display: inline_block"><br>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
