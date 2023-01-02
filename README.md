@@ -9,6 +9,8 @@
 
 - 📫 How to reach me by email: jordaodaniel@hotmail.com
 
+- GitHub Profile: https://github.com/danielsjordao
+
 <div>
 <a href="https://www.linkedin.com/in/danielsjordao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
