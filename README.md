@@ -13,8 +13,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=danielsjordao)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielsjordao)](https://github.com/danielsjordao/github-readme-streak-stats)
-
 <div>
 <a href="https://www.linkedin.com/in/danielsjordao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
